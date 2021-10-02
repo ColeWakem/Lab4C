@@ -1,0 +1,23 @@
+#bborder{
+  margin: 15px;
+  border: 3px dashed black;
+  background-color: green;
+  padding: 10px;
+}
+
+#inside1{
+  color: red;
+}
+
+#inside2{
+  color: rgb(15, 75, 25);
+}
+
+span{
+  color: purple;
+  background-color: green;
+}
+
+#outside{
+  background-color: green;
+}
